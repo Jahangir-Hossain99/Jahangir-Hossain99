@@ -1,13 +1,15 @@
-# Hi there, I'm Jahangir Hossain 👋
-### Full-Stack MERN Developer
+# Hi, I'm Jahangir Hossain 👋
+### Aspiring Full-Stack Developer | Learning & Building Every Day
 
-I am a passionate **Full-Stack Web Developer** with a focus on learning new things and learn consistently.
+I am a junior web developer currently exploring the worlds of **JavaScript** and **PHP**. I enjoy building functional web applications and learning new technologies through hands-on projects. 
+
+Currently, I'm focusing on mastering the **MERN Stack** while also building projects with **Laravel**.
 
 ### 🚀 Technical Skills
 
 * **Frontend:** React.js, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript (ES6+)
-* **Backend:** Node.js, Express.js, RESTful APIs
-* **Database:** MongoDB
+* **Backend:** Node.js, Express.js, RESTful APIs, Laravel(PHP)
+* **Database:** MongoDB, MySQL
 * **Tools & Security:** JWT Authentication, Role-Based Access Control (RBAC), Git, GitHub
 
 ### 🛠️ Featured Projects
